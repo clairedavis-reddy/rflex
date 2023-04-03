@@ -1,0 +1,395 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Project Name":"2Tribes",
+    "Start Date":null,
+    "End Date":null,
+    "Credits Sold":null,
+    "Credits Available":null,
+    "Status":"Closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Project Name":"Amathole Berries",
+    "Start Date":null,
+    "End Date":null,
+    "Credits Sold":null,
+    "Credits Available":null,
+    "Status":"Closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Project Name":"Cato Manor",
+    "Start Date":null,
+    "End Date":null,
+    "Credits Sold":null,
+    "Credits Available":null,
+    "Status":"Closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Project Name":"GreenPop",
+    "Start Date":null,
+    "End Date":null,
+    "Credits Sold":null,
+    "Credits Available":null,
+    "Status":"Closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Project Name":"GrootBos",
+    "Start Date":2021,
+    "End Date":2023,
+    "Credits Sold":5927,
+    "Credits Available":1732,
+    "Status":"Active"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Project Name":"Hout Bay Recycling Co-op",
+    "Start Date":2012,
+    "End Date":2023,
+    "Credits Sold":4611,
+    "Credits Available":0,
+    "Status":"Active"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.6397666,-34.01168241 ]
+    },
+    "properties": {
+    "Project Name":"Kuyasa",
+    "Start Date":null,
+    "End Date":null,
+    "Credits Sold":26580,
+    "Credits Available":10212,
+    "Status":"Active"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.079444,-22.526944 ]
+    },
+    "properties": {
+    "Project Name":"Namib Mills Site 1",
+    "Start Date":null,
+    "End Date":null,
+    "Credits Sold":null,
+    "Credits Available":null,
+    "Status":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.338056,-19.638333 ]
+    },
+    "properties": {
+    "Project Name":"Namib Mills Site 2",
+    "Start Date":null,
+    "End Date":null,
+    "Credits Sold":null,
+    "Credits Available":null,
+    "Status":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Project Name":"Namib Mills Site 3",
+    "Start Date":null,
+    "End Date":null,
+    "Credits Sold":null,
+    "Credits Available":null,
+    "Status":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.162139,-34.339 ]
+    },
+    "properties": {
+    "Project Name":"ReCarbon Hermanus",
+    "Start Date":null,
+    "End Date":null,
+    "Credits Sold":2606,
+    "Credits Available":27603,
+    "Status":"Active"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.510444,-33.739556 ]
+    },
+    "properties": {
+    "Project Name":"ReCarbon Uitenhage",
+    "Start Date":null,
+    "End Date":null,
+    "Credits Sold":185,
+    "Credits Available":7829,
+    "Status":"Active"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.78610577,-33.66451178 ]
+    },
+    "properties": {
+    "Project Name":"Reliance Compost",
+    "Start Date":null,
+    "End Date":null,
+    "Credits Sold":1300824,
+    "Credits Available":0,
+    "Status":"Closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Project Name":"Soweto Solar Homes",
+    "Start Date":null,
+    "End Date":null,
+    "Credits Sold":null,
+    "Credits Available":null,
+    "Status":"Closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.7822,-33.9736 ]
+    },
+    "properties": {
+    "Project Name":"Spier",
+    "Start Date":2011,
+    "End Date":2023,
+    "Credits Sold":15886,
+    "Credits Available":0,
+    "Status":"Active"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Project Name":"Stellenbosch Community Recycling",
+    "Start Date":null,
+    "End Date":null,
+    "Credits Sold":956,
+    "Credits Available":39021,
+    "Status":"Active"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Project Name":"Sun Exchange",
+    "Start Date":null,
+    "End Date":null,
+    "Credits Sold":null,
+    "Credits Available":null,
+    "Status":"New"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.42692,-27.26456 ]
+    },
+    "properties": {
+    "Project Name":"Tswalu (North West)",
+    "Start Date":null,
+    "End Date":null,
+    "Credits Sold":null,
+    "Credits Available":null,
+    "Status":"New"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Project Name":"Umdoni",
+    "Start Date":2012,
+    "End Date":2017,
+    "Credits Sold":9806,
+    "Credits Available":0,
+    "Status":"Closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.54749326,-33.99854347 ]
+    },
+    "properties": {
+    "Project Name":"Walkers Recycling",
+    "Start Date":2012,
+    "End Date":2023,
+    "Credits Sold":12339,
+    "Credits Available":0,
+    "Status":"Active"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Project Name":"Welbedacht",
+    "Start Date":null,
+    "End Date":null,
+    "Credits Sold":371,
+    "Credits Available":0,
+    "Status":"Closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.22738213,-29.51055078 ]
+    },
+    "properties": {
+    "Project Name":"Wildlands: Midmar Recycling Transfer Station",
+    "Start Date":2010,
+    "End Date":2020,
+    "Credits Sold":10457,
+    "Credits Available":0,
+    "Status":"Closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.4105644,-29.55486763 ]
+    },
+    "properties": {
+    "Project Name":"Wildlands: Deccan Road Primary School",
+    "Start Date":2010,
+    "End Date":2020,
+    "Credits Sold":null,
+    "Credits Available":null,
+    "Status":"Closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Project Name":"Wildlands: Waste Day Collection - Willowfontein",
+    "Start Date":2010,
+    "End Date":2020,
+    "Credits Sold":null,
+    "Credits Available":null,
+    "Status":"Closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Project Name":"Wildlands: Quarry Recycling Station",
+    "Start Date":2010,
+    "End Date":2020,
+    "Credits Sold":null,
+    "Credits Available":null,
+    "Status":"Closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Project Name":"Wildlands: Durban Recycling Transfer Station",
+    "Start Date":2010,
+    "End Date":2020,
+    "Credits Sold":null,
+    "Credits Available":null,
+    "Status":"Closed"
+    }
+  }
+]
+}
